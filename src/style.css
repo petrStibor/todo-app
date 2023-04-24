@@ -1,0 +1,38 @@
+body {
+    background-color: #23272f;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    font-size: 1.5em;
+    color: white;
+    
+}
+
+.list {
+    list-style-type: none!important;
+    font-size: 1.3em;
+    color: white;
+}
+
+.btn-add {
+    font-size: 1em;
+    color: black;
+    margin-top: 10px;
+    border: none
+}
+
+.btn-delete {
+    font-size: 0.6em;
+    color: white;
+    background-color: red;
+    margin-left: 10px;
+    border: none;
+}
+
